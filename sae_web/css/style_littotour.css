@@ -1,0 +1,1503 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/*------------HEADER-----------*/
+header {
+
+    
+    font-family: 'Montserrat';
+    padding: 0px 0px 10px 0px;
+    height: auto;
+}
+
+header nav {
+
+    line-height: 300%;
+    text-align: center;
+    height: auto;
+
+
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 40px;
+    padding-top: 0px;
+    cursor: pointer;
+    vertical-align: middle;
+    text-align: center;
+    
+}
+
+nav ul li a {
+    
+    padding: 5px;
+    border-radius: 0px;
+    margin: 0;
+    text-align: center;
+    color: black;
+    
+
+}
+
+li img {
+    width: 120px;
+    height: 137px;
+    color: black;
+
+}
+
+header {
+    font-size: 20px;
+    transition: transform .2s;
+
+}
+
+
+.centre li:hover {
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    text-decoration: solid;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    
+
+
+}
+
+.lien_nav{
+    border-color: #8a817c;
+    border-radius: 10px;
+    border:1px;
+}
+
+.lien_nav:hover {
+    font-weight: bold;
+    background-color: #FFD5DF;
+    border-radius: 10px;
+}
+
+.logo:hover {
+    background-color: #eeeeee;
+}
+
+
+.langues {
+    box-sizing: border-box;
+    background-color: #FFD5DF;
+    padding: 5px;
+    margin: 0;
+    font-size: 66%;
+    line-height: 125%;
+    position: absolute;
+    margin-top: 0px;
+    padding-top: 5px;
+    height: 65px;
+    right: 0;
+    font-size: 12px;
+    color: black;
+    margin-right: 10px;
+}
+
+
+.centre {
+    height: 90px;
+    text-align: center;
+
+}
+
+.anglais {
+    width: 45px;
+    height: 26px;
+    transition: transform .1s;
+}
+
+.anglais:hover {
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.france {
+    width: 45px;
+    height: 26px;
+}
+
+.france:hover {
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+/*----------------BANNIERE-----------------------*/
+.banniere {
+    background: url('../img/banniere_test.jpg');
+    text-align: center;
+    width: 100%s;
+    height: 370px;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    overflow: hidden;
+    padding: 0px, 0px, 0px, 0px;
+    margin-top: 65px;
+    margin-bottom: -120px;
+}
+
+.logo_res{
+    display: none;
+}
+
+div .banniere_2 {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    color: #FFF;
+
+}
+
+.titre_ban {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.slogan {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.CTA_accueil {
+    border: none;
+    outline: none;
+    padding: 15px 30px;
+    border-radius: 20px;
+    color: #333;
+    background: #fff;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.CTA_accueil:hover {
+    cursor: pointer;
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.menu{
+    display: none;
+}
+
+/*----------------------------------------------------------------Carousel d'images----------------------------------------------------*/
+
+.titre_ban_responsive{
+    display: none;
+}
+
+.carousel_glob {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.carousel {
+    width: 880px;
+    height: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.images {
+    width: 500%;
+    height: 500px;
+    display: flex;
+}
+
+.images input {
+    display: none;
+}
+
+.image {
+    width: 20%;
+    transition: 2s;
+}
+
+.image img {
+    width: 880px;
+    height: 500px;
+}
+
+.defil {
+    position: absolute;
+    width: 880px;
+    margin-top: -40px;
+    justify-content: center;
+    display: flex;
+}
+
+.bout {
+    border: 2px solid #90f1ef;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.bout:not(:last-child) {
+    margin-right: 30px;
+}
+
+.bout:hover {
+    background-color: #90f1ef;
+}
+
+#bouton1:checked~.first {
+    margin-left: 0;
+}
+
+#bouton2:checked~.first {
+    margin-left: -20%;
+}
+
+#bouton3:checked~.first {
+    margin-left: -40%;
+}
+
+#bouton4:checked~.first {
+    margin-left: -60%;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*-------------------------------------------texte+carte---------------------------------------------*/
+.def_cote_opale {
+    text-align: center;
+}
+
+.texte_opale h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #8a817c;
+}
+
+.texte_opale p {
+    /*texte seulement*/
+    width: 550px;
+    line-height: 40px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+.texte_opale {
+    /*texte dans la div*/
+    display: inline-block;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.carte {
+    /*carte seulement*/
+    width: 600px;
+}
+
+/*-------------------------------------------tableau-------------------------------------------------*/
+
+.tableau_accueil_res{
+    display: none;
+}
+
+.tableau_accueil {
+    /*modifie tableau en entier*/
+    margin: auto;
+    margin-bottom: 70px;
+    /*distance avec le footer (à changer)*/
+    margin-top: 40px;
+    /*emplacement (hauteur sur la page), à modifier dans la mise en commun*/
+}
+
+
+.tableau_accueil,
+th,
+tr,
+td {
+    /*sélectionne toutes les cases*/
+    border: 1px solid #074140;
+    border-collapse: collapse;
+    /*ajoute des bordures*/
+}
+
+
+
+.tableau_accueil tr th {
+    /*1ère ligne*/
+    background-color: #90F1EF;
+    padding: 15px;
+    font-size: 24px;
+
+}
+
+
+.tableau_accueil td {
+    height: 100px;
+    /*2ème ligne du tableau (taille, allignement)*/
+    width: 350px;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 40px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+
+.titre_tableau {
+    /*pour modifier titre du tableau*/
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+
+/*----------------icons du tableau---------*/
+
+.famille::before {
+    content: "";
+    background-image: url(../img/family.png);
+    background-size: cover;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.enfant::before {
+    content: "";
+    background-image: url(../img/children.png);
+    background-size: cover;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+.ado::before {
+    content: "";
+    background-image: url(../img/adolescents.png);
+    background-size: cover;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/*-------------------CONTACT ACCUEIL-----------------*/
+
+.contact_accueil {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 70px;
+}
+
+.titre_contact_accueil {
+    font-size: 32px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.text_contact_accueil {
+    font-size: 20px;
+}
+
+
+/*---------------------------------FOOTER---------------------------*/
+
+footer {
+    background-color: #c1fba4;
+    position: relative;
+    bottom: 0;
+    padding: 25px 0px 25px 0px;
+    margin: auto;
+    width: 100%;
+    margin-top: 10%;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+footer ul {
+
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+footer ul li {
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.mentions_legales {
+    color: #000000;
+    padding-left: 20px;
+    padding-right: 980px;
+    font-family: "montserrat", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+
+
+}
+
+
+/*-----footer pages activites-----*/
+.footer_contact {
+    text-align: right;
+    font-family: "montserrat", sans-serif;
+    font-size: 20px;
+    padding: 0px;
+    margin-left: 20px;
+
+}
+
+/*-------------------------------------------PAGE ACTIVITES ENFANTS---------------------------------------------*/
+
+.exterieur p {
+    background-color: #90F1EF;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+
+}
+
+
+.interieur p {
+    background-color: #FFD5A5;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+
+
+#titre {
+    height: 50px;
+    width: 200px;
+    margin-left: 670px;
+    margin-top: 50px;
+}
+
+.div_cont {
+    padding-top: 25px;
+    font-size: 24px;
+    font-family: 'montserrat';
+
+
+}
+
+.exterieur {
+    width: 430px;
+    height: 77px;
+    background-color: #90F1EF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%  ;
+
+
+}
+
+.interieur {
+    width: 30%;
+    height: 77px;
+    background-color: #FFD5A5;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+ 
+
+}
+
+
+
+.laby {
+    
+    width: 49.5%;
+    margin-left: 1%;
+
+
+}
+
+.enfants {
+    height: 50%;
+    width: 49%;
+    margin-right: 1%;
+    margin-left: 1%;
+
+}
+
+.haut_images .laby .enfants {
+    display: inline-block;
+    
+    
+}
+
+
+
+.haut_images {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
+.parc {
+    width: 44%;
+    height: 40%;
+    float: left;
+    box-shadow: 8px 8px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.act_1 {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    size: fit-content;
+    display: inline-block;
+}
+
+.texte_act_1 {
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    margin-top: 2%;
+    text-align: justify;
+    font-size: 110%;
+}
+
+.des_act_1 {
+    margin-left: 56%;
+    height: fit-content ;
+    width: fit-content;
+    padding-top: 7%;
+}
+
+.act_2 {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    display: inline-block;
+    height: max-content;
+    width: fit-content;
+}
+
+.texte_act_2 {
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    margin-top: 2%;
+    font-size: 110%;
+    text-align: justify;
+
+}
+
+.des_act_2 {
+    margin-right: 56%;
+    height: 100%;
+    width: fit-content;
+    padding-top: 7%;
+    position: relative;
+    
+
+}
+
+
+.manege {
+    width: 44%;
+    height: 50%;
+    float: right;
+    box-shadow: 8px 8px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+.titre_act_1 {
+    width: auto ;
+    height: auto;
+    margin: 0;
+    font-weight: bold;
+    font-size: 150%;
+    color: #8a817c;
+}
+
+.titre_act_2 {
+    width: auto;
+    height: auto;
+    margin: 0;
+    font-weight: bold;
+    font-size: 150%;
+    color: #8a817c;
+}
+
+.decouvrir1 {
+    
+    background-color: #FFD5DF;
+    border-width: 1px;
+    border-color: black;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #000000;
+    float: right;
+}
+
+.decouvrir1:hover {
+    background-color: #F3F3F3;
+
+}
+
+.decouvrir2:hover {
+    background-color: #F3F3F3;
+
+}
+
+
+.decouvrir2 {
+    background-color: #FFD5DF;
+    border-width: 1px;
+    border-color: black;
+    float: right;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+body {
+    margin-top: 0;
+    height: auto;
+    margin: 0;
+}
+
+.rectangle_vert {
+    background-color: #c1fba4;
+    width: 101%;
+    height: 100px;
+    margin-left: -10px;
+    margin-top: 5%;
+}
+
+
+header {
+
+    position: center;
+    font-family: 'Montserrat';
+    padding: 0px 0px 10px 0px;
+    height: auto;
+}
+
+nav {
+
+    line-height: 300%;
+    text-align: center;
+    height: auto;
+
+
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 40px;
+    padding-top: 0px;
+    cursor: pointer;
+    vertical-align: middle;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 0px;
+    margin: 0;
+    text-align: center;
+
+}
+
+li img {
+    width: 120px;
+    height: 137px;
+
+}
+
+header {
+    font-size: 20px;
+    transition: transform .1s;
+
+}
+
+header li:hover {
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    text-decoration: solid;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+
+
+}
+
+.logo:hover {
+    background-color: #eeeeee;
+}
+
+
+.langues {
+    box-sizing: border-box;
+    background-color: #FFD5DF;
+    padding: 5px;
+    margin: 0;
+    font-size: 66%;
+    line-height: 125%;
+    position: absolute;
+    margin-top: 0px;
+    padding-top: 5px;
+    height: 65px;
+    right: 0;
+    font-size: 12px;
+    color: black;
+    margin-right: 10px;
+}
+
+
+.centre {
+    height: 90px;
+    text-align: center;
+
+}
+
+.anglais {
+    width: 45px;
+    height: 26px;
+}
+
+.anglais:hover {
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.france {
+    width: 45px;
+    height: 26px;
+}
+
+.france:hover {
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+
+/*-----------------------------------------MENTIONS LEGALES-------------------------------------------------*/
+
+.mentions_legales_titre {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 90px;
+}
+
+.date_mentions {
+    text-align: center;
+    margin-bottom: 50px;
+
+
+}
+
+.textes_MT {
+    width: 90%;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 65px;
+    font-size: 20px;
+}
+
+
+.titre_article {
+    font-size: 24px;
+    width: 90%;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+/*---------------------------------------------------------------------VERSION RESPONSIVE------------------------------------------------------*/
+
+
+@media only screen and (max-device-width: 390px) and (max-device-height: 844px) {
+
+
+    /*-------------------HEADER------------------------------------*/
+
+    .langues {
+        height: 60px;
+        width: 50px;
+    }
+
+    .anglais {
+        width: 38px;
+        height: 23px;
+        padding-left: 6%;
+
+    }
+
+    .france {
+        width: 38px;
+        height: 23px;
+        padding-left: 6%;
+
+    }
+
+
+    .menu{
+        display: block;
+    }
+
+
+    #hamburger {
+        /* Pour que la checkbox ne s'affiche pas */
+        display: none;
+      }
+
+    #hamburger-logo {
+        /* Pour que le curseur soit un pointeur */
+        cursor: pointer;
+        background:#FFD5DF;
+        width: 200px;
+        display: block;
+        color: white;
+        /* Pour que le menu hamburger s'affiche toujours */
+        text-align: right;
+        /* Pour que le menu hamburger soit "rangé" par défaut */
+        transform: translateX(-168px);
+        padding: 10px;
+    }
+
+
+    nav {
+        display: flex;
+        position: absolute;
+        z-index: 1;
+        flex-direction: column;
+        background: #FFD5DF;
+        overflow: hidden;
+        width: 200px;
+        /* Pour que les liens soient "rangés" par défaut */
+        transform: translateX(-200px);
+      }
+
+      #hamburger-logo,
+      nav {
+        /* Pour qu'il y ait une animation */
+        transition: 0.7s;
+      }
+      
+      /* Lorsque #hamburger est coché, le #hamburger-logo et le nav qui sont dans le même parent changent de propriété */
+      #hamburger:checked ~ #hamburger-logo,
+      #hamburger:checked ~ nav {
+        /* Changement de la position pour afficher les menus */
+        transform: translate(0);
+      }
+      
+      nav a {
+        color: black;
+        text-decoration: none;
+        padding: 10px;
+        border: solid 1px white;
+      }
+      
+      nav a:hover {
+        background: #F3F3F3;
+      }
+
+    /*------------------------------Baniere--------------------------*/
+
+
+    .banniere {
+        background-image: url('../img/banniere_responsive._2jpg.jpg');
+        height: 170px;
+        width: 390px;
+        margin: 0px;
+        padding-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    div .banniere_2 {
+
+        padding: 10px;
+        margin-top: 0px;
+    }
+
+    .titre_ban {
+        font-size: 20px;
+        margin-top: 0px;
+    }
+
+    .slogan {
+        text-align: center;
+        font-size: 12px;
+        width: 211px;
+    }
+
+    .CTA_accueil {
+        font-size: 12px;
+        width: 211px;
+        height: 28px;
+    }
+
+
+
+    /*-----------------------------------------------------------CARROUSEL---------------------------------------------------------------*/
+
+    .carousel_glob {
+        width: 390px;
+        height: 249px;
+        margin-top: 70px;
+        margin-bottom: 35px;
+    }
+
+    .carousel {
+        width: 390px;
+        height: 249px;
+
+    }
+
+    .images {
+        height: 219px;
+    }
+
+    .image img {
+        width: 390px;
+        height: 219px;
+    }
+
+    .defil {
+        width: 390px;
+    }
+
+    .bout {
+        margin-top: 50px;
+        align-items: center;
+        padding: 6px;
+    }
+
+
+
+    /*-----------------------------------------------------------texte+carte--------------------------------------------------*/
+
+
+    .def_cote_opale {
+        flex-direction: row-reverse;
+    }
+
+    .texte_carte {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .texte_opale {
+        align-items: center;
+        padding: 0px;
+        margin: 0px;
+        margin-bottom: 30px;
+    }
+
+    .texte_opale p {
+        font-size: 12px;
+        line-height: 20px;
+        width: 340px;
+
+
+    }
+
+    .carte {
+        width: 340px;
+    }
+
+    /*-------------------------------activités----------------------------------------*/
+
+
+
+
+
+/*----------------------------TABLEAU---------------------------------------------*/
+    
+.tableau_accueil{
+    display: none;
+}
+
+.tableau_accueil_res{
+    display: block;
+}
+    
+.tableau_accueil_res {
+    width: 85%;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.tableau_accueil_res{
+    border-collapse: collapse;
+}
+
+
+.tableau_accueil_res tr th {
+    /*1ère ligne*/
+    background-color: #90F1EF;
+    padding: 15px;
+    font-size: 16px;
+
+}
+
+
+.tableau_accueil_res td {
+    height: 100px;
+    /*2ème ligne du tableau (taille, allignement)*/
+    width: 350px;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 30px;
+    text-align: justify;
+    font-size: 12px;
+}
+
+
+
+.titre_tableau_res {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+
+
+
+/*----------------icons du tableau---------*/
+
+.famille_res::before {
+    content: "";
+    background-image: url(../img/family.png);
+    background-size: cover;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.enfant_res::before {
+    content: "";
+    background-image: url(../img/children.png);
+    background-size: cover;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+.ado_res::before {
+    content: "";
+    background-image: url(../img/adolescents.png);
+    background-size: cover;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*-------------------------------------------CONTACT--------------------------------------------------*/
+
+
+    .contact_accueil {
+        width: 340px;
+    }
+
+    .titre_contact_accueil {
+        font-size: 16px;
+    }
+
+    .text_contact_accueil {
+        font-size: 12px;
+    }
+
+
+    /*-------------------------FOOTER------------------------------*/
+    footer {
+        padding: 15px, 0px, 15px, 0px;
+    }
+
+    .mentions_legales {
+        font-size: 12px;
+        padding-right: 100px;
+        padding-left: 12px;
+
+    }
+
+    .footer_contact{
+        font-size: 12px;
+        margin-left: 12px;
+    }
+
+
+
+
+    /* --------------------------------------ACTIVITE PAGE ENFANTS-----------------------------------------*/
+
+
+    .div_cont {
+        padding-top: 7px;
+        font-size: 16px;
+    }
+
+    .exterieur {
+        width: 215px;
+        height: 35px;
+    }
+
+
+
+
+    .interieur {
+        width: 215px;
+        height: 35px;
+    }
+
+
+
+    .laby {
+        height: 200px;
+        width: 300px;
+        padding-left: 0px;
+        display: none;
+
+
+    }
+
+    .enfants {
+        height: 200px;
+        width: 100%;
+        padding: 0%;
+        margin-right:0% ;
+        margin-top: -30px;
+
+    }
+
+    .parc {
+        width: 290px;
+        height: 200px;
+        margin-right: 0px;
+        float: right;
+
+    }
+
+    .manege {
+        width: 290px;
+        height: 200px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .haut_images .laby .enfants {
+        display: none;
+    }
+
+    .haut_images {
+        margin-top: 50px;
+        margin-left: 0px;
+        height: 200px;
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+
+
+
+    .act_1 {
+        margin: 50px;
+        margin-top: 20px;
+        height: 450px;
+        display: block;
+    }
+
+    .texte_act_1 {
+        width: 290px;
+        padding: 0;
+        margin: 0;
+        margin-left: 0px;
+        padding-top: 15px;
+        float: none;
+        font-size: 12px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .des_act_1 {
+        padding-top: 50px;
+        text-align: center;
+
+    }
+
+    .titre_act_1 {
+        width: 290px;
+        height: 70px;
+        padding-top: 20px;
+        font-size: 20px;
+        text-align: center;
+
+
+    }
+
+    .decouvrir1 {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-right: 15px;
+    }
+
+    .act_2 {
+        margin: 50px;
+        margin-top: 20px;
+        height: 450px;
+    }
+
+    .texte_act_2 {
+        width: 290px;
+        padding: 0;
+        margin: 0;
+        padding-top: 15px;
+        display: flex;
+        justify-content: space-evenly;
+        text-align: justify;
+        font-size: 12px;
+    }
+
+    .des_act_2 {
+        padding-top: 50px;
+        width: 300px;
+    }
+
+    .titre_act_2 {
+        width: 290px;
+        height: 70px;
+        padding-top: 20px;
+        font-size: 20px;
+        text-align: center;
+
+
+    }
+
+    .decouvrir2 {
+        font-size: 12px;
+        margin-top: 3px;
+        float: none;
+        margin-right: 0px;
+        margin-left: 190px;
+    }
+
+    .rectangle_vert {
+        background-color: #c1fba4;
+        width: 101%;
+        height: 50px;
+        margin-left: 0px;
+    }
+
+    /*-----------------------ajout mise en commun----------------------------*/
+    .contact_accueil {
+        width: 340px;
+        margin-bottom: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .titre_contact_accueil {
+        font-size: 16px;
+    }
+
+    .text_contact_accueil {
+        font-size: 12px;
+    }
+
+
+
+
+    .banniere {
+        background-image: url('../img/banniere_responsive._2jpg.jpg') ;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 150px;
+        width: 390px;
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    div .banniere_2 {
+
+        padding: 10px;
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .titre_ban {
+        display: none;
+    }
+
+    .slogan {
+        text-align: center;
+        font-size: 12px;
+        width: 211px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-top: 25px;
+    }
+
+    .CTA_accueil {
+        margin-top: 0px;
+        padding: 0px;
+        font-size: 12px;
+        width: 211px;   
+        height: 28px;
+    }
+
+    .titre_ban_responsive{
+
+        font-family: 'Montserrat', sans-serif;
+        font-size: 24px;
+        position: absolute;
+        z-index: -1;
+        margin-left: 150px;
+        margin-top: -60px;
+        display: inline;
+        font-weight: 100px;
+        color: #8a817c;
+    }
+
+       /*-----------------------------------------MENTIONS LEGALES-------------------------------------------------*/
+.mentions_legales_titre{
+    font-size: 16px;
+    margin: 0px;
+    margin-top: 30px;
+    
+}
+
+.date_mentions{
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.titre_article{
+    font-size: 16px;
+    width: 340px;
+}
+
+.textes_MT{
+    font-size: 12px;
+    width: 340px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+
+.logo_res{
+    display: inline;
+}
+
+.logo_res img{ 
+        width: 18%;
+        position: absolute;
+        z-index: -1;
+        margin-top: -50px;
+        margin-left: 70px;
+
+}
+
+
+}

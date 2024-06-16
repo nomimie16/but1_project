@@ -1,0 +1,638 @@
+
+
+
+Il était une fois un groupe d'étudiants au sein d'une université.Un soir le groupe découvre un jeu vidéo abandonné, déniché dans un carton au sous-sol.Ils décident alors d'y jouer.Mais au démarrage, le groupe est aspiré dans le jeu.
+REGLES/RULES : 
+- chaque joueur/personnage dispose de 3 vies
+- faites le mauvais choix et vous périrez 
+- chaque mauvaise décision vous fait perdre une vie
+- faites le bon choix et obtenez un défi plus simple
+- Réussissez le défi simple et repartez avec 1 vie en plus et 25 points
+- Réussissez le défi compliqué et repartez avec 1 vie en plus et 50 points
+- Un défi raté/non abouti ne vous fait rien perdre
+
+Pour parvenir à terminer le jeu et à vous échapper de celui-ci vous devez disposer de  100 points afin de pouvoir acheter le joyaux qui vous permettra de crier le nom de junglophia
+
+ 
+
+CHOIX PERSONNAGE
+
+Quel est votre nom dans le jeu ?
+
+Vous allez entrer dans le monde de Junglophia
+Aventurier méfiez-vous, ne commencez à jouer que si vous avez l’intention de finir.
+Avant de commencer à jouer vous devez choisir un avatar.Voulez vous être l'explorateur(1), le professeur(2) ou la guerrière(3) ? 
+Chapitre 1
+JUNGLE
+A votre arrivée vous débarquez dans un endroit hostile au beau milieu de la jungle.
+Vous entendez un bruit étrange derrière le feuillage.Tout d’un coup un rhinocéros sort de nul part et court à vos trousses.
+Vous devez le semer pour tenter de survivre.Se cacher(1) ou courir(2) pour tenter d'y échapper ?
+
+Explorateur : 
+
+(1) 
+Votre âme d’explorateur vous dit de vous glisser derrière un rocher en attendant que le rhino s’en aille mais celui ci vous repère et vous dévore -1vie
+
+(2)
+Votre force physique vous a permis de courir assez vite et loin pour ne plus être pourchassé 
+
+Professeur : 
+(1) 
+Vous faites le choix de vous réfugier dans une grotte dans laquelle l’animal ne peut s’y rendre.Celui-ci se résigne et pars.
+
+(2) 
+Malheureusement vous n’êtes pas en capacité physique de courir à toute vitesse et vous trébuchez sur un rocher en pleine course.L’animal ne fait qu’une bouchée de vous -1 vie 
+
+
+Guerrière : 
+
+(1)
+Vous ne savez pas où aller et décidez de vous cacher dans un feuillage non loin de là mais un rat s’y cachait aussi et le bruit attira le rhinocéros dans votre direction.Il vous dévore - 1vie  
+
+(2) 
+Grâce à votre expertise en art martiaux vous arrivez à grimper le long d’une paroie et vous atteignez le sommet d’un mont qui vous permet d’échapper à celui-ci
+
+
+
+Choix difficulté 1:
+
+Après cette rencontre inattendue vous et votre groupe d’aventurier venez de vous retrouver pour continuer votre parcours toujours à la recherche du fameux joyaux qui vous permettra de vous sortir de cette malédiction qui vous a aspirer dans ce jeu.En poursuivant votre route en plein coeur de la jungle vous apercevez des chemins distincts qui semblent amener vers des direction opposées. 
+
+Le premier chemin était étroit et serpentait à travers les arbres.Des fruits mystérieux scintillaient entre les feuilles, incitant les voyageurs à s'aventurer plus loin.
+Toutefois la dense végétation cachait des créatures insaisissables.
+
+De l'autre côté, le second sentier s'étendait plus largement, exposant les voyageurs aux lueurs dorées du soleil.Cependant, des bruits nocturnes intrigants résonnaient à travers la flore.
+
+Vous et les aventuriers remarquez que des épreuves inattendues vous attendent dans l'ombre.   
+
+Vers quel chemin souhaitez vous vous orienter ?
+choix 1 :
+choix 2 :
+
+Défi :
+Facile 
+
+Vous avez choisis le premier chemin.Pour espérer gagner 1 vie et 25 points résolvez cette énigme :
+✿ + ✿ + ✿ = 30
+☆ + ☆ + ✿ = 40
+☉ + ☾ + ☾ = 24
+☉ + ☉ * ☉ = 20
+☾ + ☆ * ☉ = ??
+A quoi correspond la derniere ligne ? 
+
+Bravo ! Vous avez trouvé la solution, vous gagnez 1 vie et 25 points.
+Dommage ce n'est pas la bonne solution vous ne gagnez rien
+
+Solution : 
+
+
+
+
+
+Difficile : 
+Vous avez choisis le second chemin.Pour espérer gagner 50 points et une vie résolvez cette énigme
+David a 10 ans, son petit frère Franck a la moitié de son âge. Quand David sera 10 fois plus âgé, quel âge aura Franck ?
+
+Solution : 95 ans
+
+Bravo ! Vous avez trouvé la solution, vous gagnez 1 vie et 50 points.
+Dommage ce n'est pas la bonne solution vous ne gagnez rien
+
+
+
+
+
+Chapitre 2
+MONTAGNE 
+
+Après avoir traversé les profondeurs de la jungle, vous et votre groupe d'aventuriers devez faire face à un tout nouveau défi : les imposantes montagnes. Là où la jungle était un labyrinthe verdoyant, les montagnes présentent un défi vertical et imprévisible.
+Au sommet de la montagne, vous découvrez un passage périlleux. La traversée pour poursuivre votre chemin est extrêmement dangereuse. Devant vous, deux options se présentent :
+Le Pont Suspendu : Un pont en bois relie deux crêtes éloignées. Il semble fragile, mais il offre un raccourci direct vers la destination finale. Cependant, il est notoirement instable, et il y a des rumeurs en ce qui concerne les créatures qui habitent les abysses en dessous.
+Le Tunnel des Ombres Éternelles : Un tunnel sombre, taillé dans la roche solide de la montagne, s'enfonce dans l'obscurité. Bien qu'il soit plus sûr du point de vue des conditions météorologiques, des légendes racontent qu'il abrite les cadavres , de ceux qui n’ont pas réussi à s'y échapper.
+Se diriger vers le Pont (1) ou vers le Tunnel (2) ?
+
+Explorateur : 
+
+(1)
+En tant qu'explorateur vous vous sentez obligé de vous diriger vers le pont suspendu.Vous marchez d’un pas confiant vers le raccourci et emmenez le groupe avec vous.Arrivé à la moitié du parcours le pont se brise en laissant tomber tous vos amis mais grâce à votre force vous parvenez à vous accrocher au planches, toujours raccordées au bords de la montagne et vous réussissez à rester en vie.
+
+(2)
+Le tunnel vous semble plus sûr et vous décidez de vous y aventurer avec votre équipe dans l’espoir d’y trouver un passage sûr et une sortie.Cependant un fois à l'intérieur un bruit retentit et  BOUM un éboulement se produit.vous et vos amis vous vous retrouvez séparés les uns des autres, enfermés dans cette grotte.Vous avez beau chercher il n’y a pas de sortie et vous ne savez comment trouver une solution.Vous perdez une vie.  -1vie
+
+Professeur : 
+
+(1)
+Vous avez choisi de vous diriger vers le pont suspendu.Selon vous et vos connaissances, le bois est assez solide pour supporter le poids de deux personnes à la fois. 
+Vous décidez donc de demander à chaque membre du groupe de passer chacun son tour et grâce à cela vous parvenez à emprunter le raccourci.
+
+
+(2)
+Le tunnel vous semble plus sûr et vous décidez de vous y aventurer avec votre équipe dans l’espoir d’y trouver un passage sûr et une sortie.Cependant un fois à l'intérieur un bruit retentit et  BOUM un éboulement se produit.vous et vos amis vous vous retrouvez séparés les uns des autres, enfermés dans cette grotte.Vous avez beau chercher il n’y a pas de sortie et vous ne savez comment trouver une solution.Vous perdez une vie.-1 vie
+
+
+Guerrière : 
+
+(1)
+Vous vous sentez obligé de vous diriger vers le pont suspendu.Vous marcher d’un pas confiant vers le raccourci et emmenez le groupe avec vous.Arrivé à la moitié du parcours le pont se brise en laissant tomber tous vos amis -1vie
+
+(2)
+Votre instinct vous dit d’emprunter la direction du tunnel.Vous emmenez le groupe à l'intérieur et montrez le chemin.Un bruit semble provenir du fond de la grotte et vous semblez le reconnaître, c’est le même bruit que les éboulements que vous avez vécu en étant dans l’armé.Dans un élan de panique vous prévenez vos amis de courir aussi vite que possible.Votre réaction intuitive vous a permis de vous échapper de la grotte en un seul morceaux. 
+
+
+Choix difficulté 2:
+Après avoir passé ce raccourci, vous tombez sur un refuge énigmatique : ce refuge mystérieux semble abandonné. Vous pouvez choisir de vous y reposer, mais quelque chose semble clocher. Vous devez décider si vous faites confiance au refuge ou si vous continuez votre chemin malgré la fatigue.S’y reposer (1)  ou continuer votre route (2) ?
+
+(1)
+Vous décidez d'explorer le refuge mystérieux pour y passer la nuit. À première vue, tout semble normal, mais au cours de la nuit, vous êtes réveillés par des bruits étranges. En explorant le refuge, vous découvrent une pièce secrète
+Dans la salle cachée, votre groupe trouve un vieux livre, le Livre des Anciens, qui contient des connaissances ancestrales sur les secrets de JUNGLOPHIA. Grâce à lui, vous en apprenez plus sur le fonctionnement du jeu et ses mécaniques.
+
+
+(2)
+Votre groupe d’aventuriers et vous, méfiants à l'idée de se reposer dans un lieu inconnu, décidez de poursuivre votre quête sans s'arrêter au refuge.
+Pendant votre ascension nocturne, vous rencontrez un guide mystérieux. Celui-ci offre son aide pour traverser une section particulièrement dangereuse des montagnes, affirmant connaître les passages secrets et les chemins plus sûrs. Vous devez choisir de faire confiance à ce guide inconnu ou de continuer seuls.
+Continuer seul (1) ou Faire confiance (2) ?
+
+
+Défi :
+Vous avez choisis le second chemin.Pour espérer gagner 1 vie et 25 points résolvez cette énigme :
+A -> !
+B -> @
+C -> #
+D -> $
+E -> %
+F -> ^
+G -> &
+H -> *
+I -> (
+J -> )
+K -> _
+L -> -
+M -> +
+N -> ;
+O -> :
+P -> '
+Q -> "
+R -> ,
+S -> .
+T -> <
+U -> >
+V -> /
+W -> ?
+X -> `
+Y -> {
+Z -> }
+Message codé : -!    .:-><(:;    %.<   $%/!;<   /:>.
+Parviendrez vous à trouver le message caché ? (indiquez les espaces par des "_")
+
+
+Solution: “La solution est devant vous”
+La réponse était : "La solution est devant vous".Il suffisait de remplacer les symbole par leurs lettres correspondantes.
+Difficile choix 1: 
+Vous avez choisis le premier chemin.Pour espérer gagner 1 vie et 50 points résolvez cette énigme :
+Je suis pris sans être attrapé,
+je voyage mais n'ai pas de jambes.
+Je pleure sans avoir d'yeux.
+Partout où je vais, l'obscurité suit.
+Que suis-je ?
+
+Solution : l’écho
+Chapitre 3
+Les Dunes de l'Infini
+Alors que vous émergez des montagnes majestueuses, une autre épreuve s'étend devant vous : le désert implacable, où les dunes sans fin murmurent des histoires de mystères ensevelis.Votre quête continue à travers un océan de sable doré, où chaque pas est une danse avec l'illusion et la survie.
+Les Dunes de l'Infini s'étendent à perte de vue, formant un désert sans fin de sable doré. 
+Au cœur des Dunes de l'Infini se trouve une cité ancienne ensevelie sous le sable. Les légendes parlent d'un trésor enfoui dans les ruines.Vous devez vous y rendre afin de trouver le joyaux qui vous permettra de vous libérer de la malédiction de junglophia.
+Un fois la cité atteinte vous apercevez un marchand qui pourrait donner des informations sur l’emplacement du coffre contenant le précieux joyaux.Voulez vous aborder ce marchand ? (1)oui ou (2)non
+
+(1)
+Vous prenez la décision d’aller le voir pour espérer avoir des renseignements sur le joyaux.En discutant avec lui il vous informe qu’il est possible que celui-ci ai des choses à dévoiler sur l’emplacement du coffre mais il insiste sur le fait qu’il ne les donnera pas à moins que vous ne réussissez une épreuve.
+
+énigme bonus:
+
+
+
+
+(n)
+Vous prenez la décision de ne pas aborder le passant, même si cela vous aurait permis d’avoir des renseignements sur le joyaux. 
+
+
+
+Action 3 :
+
+Alors que vous progressez à travers le sable ardent, le groupe est soudain pris dans une violente tempête de sable qui vous force à se réfugier sous une grotte pour se protéger.Un fois à l’intérieur vous découvrez une mystérieuse porte qui semble abandonnée.Vous et le groupe ouvrez cette porte et découvrez une salle menant à une autre porte.Cependant pour accéder à cette dernière vous devez résoudre une egnime.Il y a une inscription disant que l’une se fit aux nombres tandis que l’autre amène à la réflexion.Quelle énigme voulez vous résoudre ? (1) ou (2)
+
+
+Choix difficulté 3:
+
+Chemin 1:
+
+Défi :
+facile:
+Vous avez choisi la première énigme .Pour espérer gagner 1 vie et 25 points résolvez cette énigme :
+1 | 2 | 3    aucun chiffre n’est correct
+4 | 5 | 6    nombre correct et à la bonne place
+6 | 1 | 2    1 chiffre correct, mais pas à la bonne place
+5 | 4 | 7    1 chiffre correct, mais pas à la bonne place
+8 | 4 | 9    1 chiffre correct, mais pas à la bonne place
+? | ? | ?     Quel est le bon code ?
+
+solution :  8 7 6
+
+
+difficile (2)
+
+Vous avez choisi la seconde enigme .Pour espérer gagner 1 vie et 50 points résolvez cette énigme :
+Plus j'ai de gardiens, moins je suis gardé.
+Moins j'ai de gardiens, plus je suis gardé.
+Qui suis-je ?
+
+solution : le secret
+
+Cette porte menait à une sortie qui vous a permis de gagner de temps lors de votre périple.À la sortie vous croisez un enfant qui crie à l’aide, en vous voyant, l’enfant s’approche de vous et vous explique que la fin est proche et que vous devez choisir vers quelle direction vous souhaitez vous diriger.Il insiste pour que vous suiviez un sentier perdu qui semble mener vers une sombre forêt mais il vous laisse aussi le choix de poursuivre vers un chemin se dirigeant vers de grands canyons qui reflètent la lumière et qui paraissent assez étroits.
+Voulez vous vous diriger vers la sombre Forêt (1) ou vers les Canyons sinueux (2) ?
+
+
+
+
+FORÊT
+
+Vous vous aventurez dans la mystérieuse Forêt Silencieuse, où d'étranges phénomènes obscurcissent la lumière du jour.
+La Rencontre avec les Chasseurs: 
+Cependant, avant que vous ayez la chance de vous enfoncer dans la forêt, une flèche sifflante fend l'air, manquant de peu de vous toucher.
+Tout à coup des chasseurs habiles et silencieux se révèlent, émergeant des ombres de la forêt. Leur chef, un individu au regard froid, déclare leur intention de vous tuer si vous ne leur donnez pas des informations sur l’emplacement du joyaux qui permet de s’évader du Junglophia.Se présente à vous alors 2 choix : 
+(1) La Fuite Discrète : cette option permet de contourner les chasseurs et de continuer votre quête sans altercation , mais elle nécessite une retraite silencieuse et prudente, car ces braconniers sont redoutablement habiles.
+(2)La Négociation : vous pourriez proposer un marché chasseur, échangeant des informations ou des ressources en échange de votre sécurité. Cette option pourrait éviter un conflit ouvert.
+Que souhaitez vous faire ? Fuir(1) ou Negocier(2)
+
+Vous prenez la première décision.
+Vous disparaissez dans les ombres de la forêt, laissant les chasseurs confus et frustrés.Vous poursuivez votre quête, mais laissez derrière vous une tension avec les chasseurs.
+
+Vous prenez la seconde décision.
+Vous prenez la décision de faire un accord Diplomatique.Cependant le groupe groupe de chasseur de semble pas être du même avis que vous.Les chasseurs ne veulent rien entendre et se mettent alors à courir à vos trousses.Vous n’avez pas le temps de les semer et vous vous faites tuer par une flèche en plein coeur.-1 vie
+
+
+
+
+Après votre rencontre tendue avec ces braconniers, vous continuez votre quête à travers la forêt dense. Cependant, leur chemin est barré par un étrange portail caché au cœur d'une clairière éclairée par la lueur de la lune.Pour passer le portail et espérer gagner de quoi acheter le joyaux vous devez résoudre cette énigme :
+
+
+Trouvez le nombre manquant et la victoire est à vous : 
+
+42 | 44 | 38
+__________
+
+23 | 55 | 28
+__________
+
+37 | ?? | 39
+
+Quel est le nombre manquant ?
+
+Solution : 22 
+Voilà comment il fallait procéder : 
+(Colonne 1 – Colonne 3) x 11 = Colonne 2
+Ligne 1
+42 – 38 = 4 x 11 = 44
+Ligne 2
+28 – 23 = 5 x 11 = 55
+Ligne 3
+39 – 37 = 2 x 11 = 22
+
+
+
+
+victory = oui
+Bravo vous avez trouvé la solution à cette énigme ! Vous remportez 1 vie et 50 points
+
+victory = non
+Dommage vous n’avez pas la bonne solution vous perdez 25 points
+
+
+
+CANYON
+
+Au-delà des étendues désertiques, vous vous enfoncez maintenant dans les canyons, où chaque paroi rocheuse scintille de cristaux éthérés. Les canyons dévoilent un spectacle étincelant, mais cachent également des mystères lumineux qui défient la compréhension.
+Au fur et à mesure que vous vous enfoncez plus profondément dans la brume mystique des Canyons,vous tombez nez à nez avec des serpents venimeux aux écailles étincelantes. Ces créatures, cachées dans le voile épais de l'obscurité , se révèlent être des redoutables.
+Le venin de leurs morsures est empreint de magie ancienne, une magie qui nie la réalité elle-même.Pour éviter de vous faire empoisonner vous pouvez faire le choix de contourner le chemin en sautant d’un rive à l’autre des canyons ou bien essayer de vous défendre en utilisant un cristal qui est enfoui dans la roche du canyon.
+Se défendre(1) ou sauter du canyon(2) ?
+
+
+(1)
+Vous faites le choix de vous défendre.Vous regardez autour de vous et apercevez un cristal enfoui dans la roche.Avec l’aide de vos amis vous parvenez à l’extraire et vous l’utilisez pour éblouir les serpents venimeux grâce à la lumière enfermé par les parois du canyon.Cette distraction vous permet de passer entre les créatures et laisse continuer votre périple sain et sauf.
+
+
+(2)
+Vous décidez de prendre un autre chemin pour éviter d’attirer les serpents venimeux dans votre direction, cependant les créatures vous entourent et n’avez d’autres choix que de sauter d’un bout à l’autre.La distance est si grande mais c’est votre dernière chance pour survivre à leurs morcures.D’un pas décidé vous faites le grand saut mais vous aviez raison la distance ne permettait pas d’atteindre si facilement l’autre côté et vous sombrez a la vu des hauteurs du canyon.Vous perdez une vie -1vie
+
+
+Après avoir fait face à ces créatures redoutables vous atteignez une zone où une brume étrange se lève des profondeurs du canyon.Vous devez choisir :
+Traverser la Brume (1) : vous pouvez choisir de vous aventurer dans la brume, malgré son aspect mystérieux. Cette décision pourrait comporter des risques inconnus.
+Contourner la Brume (2) : Les aventuriers et vous même pouvez choisir de contourner la zone brumeuse, en optant pour un chemin plus sûr mais potentiellement plus long. 
+
+
+??  +  ??  =  8
+ +      +
+??  -  ??  =  6
+ =      =
+13      8
+
+3,5 +  4,5  =  8
+ +      +
+9,5  -  3,5  =  6
+ =       =
+ 13      8
+
+
+
+
+Après avoir eu cette dernière épreuve une porte mystérieuse s’ouvre à travers la roche des parois des gorges mystérieuses.Vous vous dirigez vers elle et à l’intérieur vous attend un homme qui semble avoir attendu votre venu.Vous allez le voir et celui-ci vous dit qu’il est en possession du joyaux.Vous n’en revenez pas il détenait la fameuse pierre que vous cherchez à obtenir depuis votre arrivée.
+Mais pour obtenir une telle récompense le marchand réclame une certaine somme d’argent.Il se confie à vous en disant “ Pour quelques pièces d’or la victoire est à vous mais si vous n’avez pas assez de pièces je ne peux rien pour vous ”.
+Vous avez besoin de :
+En sortant de votre sacoche votre bourse, vous comptez alors vos pièces.
+Vous avez en votre possession : 
+
+
+WOW ! Vous avez assez de pièces et pouvez donc prendre possession de ce joyaux !  
+
+Mince ! Vous n'avez pas assez de pièces et ne pouvez donc pas prendre possession de ce joyaux ! Utilisez le à bon usage et soyez digne de celui-ci
+
+
+
+FIN
+Si joyaux acheté :
+
+Après avoir surmonté une série d'épreuves dangereuses dans le monde du jeu magique de Junglophia, vous parvenez finalement à atteindre le cœur de la jungle et résoudre le mystère qui vous retient.
+Votre groupe découvre que vous devez replacer la pierre précieuse magique dans le centre du plateau de jeu pour terminer la partie et refermer le portail entre le monde réel et Junglophia. 
+
+Si joyaux pas acheté : 
+
+Après avoir surmonté une série d'épreuves dangereuses dans le monde du jeu magique de Junglophia vous n’avez pas réussi à vaincre la malédiction en réussissant un certains nombres d’épreuves et vous n’avez pas pu acheter la pierre précieuse magique pour terminer la partie et refermer le portail entre le monde réel et Junglophia. 
+Vous et les aventuriers êtes voués à rester coincés dans le jeu à TOUT jamais…..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             _                       _                _      _        
+            (_) _   _  _ __    __ _ | |  ___   _ __  | |__  (_)  __ _ 
+            | || | | || '_ \  / _` || | / _ \ | '_ \ | '_ \ | | / _` |
+            | || |_| || | | || (_| || || (_) || |_) || | | || || (_| |
+           _/ | \__,_||_| |_| \__, ||_| \___/ | .__/ |_| |_||_| \__,_|
+          |__/                |___/           |_|                     
+
+
+
+
+
+Vous avez choisi l'explorateur
+Vous avez choisi le professeur
+Vous avez choisi la guerriere
+
+Choix invalide, vous devez choisir une des proposition
+
+
+
+
+
+
+
+                                   /\
+                              /\  //\\
+                       /\    //\\///\\\        /\
+                      //\\  ///\////\\\\  /\  //\\
+         /\          /  ^ \/^ ^/^  ^  ^ \/^ \/  ^ \
+        / ^\    /\  / ^   /  ^/ ^ ^ ^   ^\ ^/  ^^  \
+       /^   \  / ^\/ ^ ^   ^ / ^  ^    ^  \/ ^   ^  \       *
+      /  ^ ^ \/^  ^\ ^ ^ ^   ^  ^   ^   ____  ^   ^  \     /|\
+     / ^ ^  ^ \ ^  _\___________________|  |_____^ ^  \   /||o\
+    / ^^  ^ ^ ^\  /______________________________\ ^ ^ \ /|o|||\
+   /  ^  ^^ ^ ^  /________________________________\  ^  /|||||o|\
+  /^ ^  ^ ^^  ^    ||___|___||||||||||||___|__|||      /||o||||||\       |
+ / ^   ^   ^    ^  ||___|___||||||||||||___|__|||          | |           |
+/ ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo  |
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .    _    +     .  ______   .          .
+ (      /|\      .    |      \      .   +
+     . |||||     _    | |   | | ||         .
+.      |||||    | |  _| | | | |_||    .
+   /\  ||||| .  | | |   | |      |       .
+__||||_|||||____| |_|_____________\__________
+. |||| |||||  /\   _____      _____  .   .
+  |||| ||||| ||||   .   .  .         ________
+ . \|`-'|||| ||||    __________       .    .
+    \__ |||| ||||      .          .     .
+ __    ||||`-'|||  .       .    __________
+.    . |||| ___/  ___________             .
+   . _ ||||| . _               .   _________
+_   ___|||||__  _ \\--//    .          _
+     _ `---'    .)=\oo|=(.   _   .   .    .
+_  ^      .  -    . \.|
+
+
+
+
+
+
+
+
+               ,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@/ /@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%\ ` /%&'    |.|        \ '|8'
+       |o|        | |         | |
+       |.|        | |         | |
+    \\/ ._\//_/__/  ,\_//__\\/.  \_//__/_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       ,-.^._                 _
+                     .'      `-.            ,' ;
+          /`-.  ,----'         `-.   _  ,-.,'  `
+       _.'   `--'                 `-' '-'      ;
+      :                         o             ;    __,-.
+      ,'    o                 Montagnes       ;_,-',.__'--.
+     :    Jungle                              ,--```    `--'
+     :                                      ;
+     :                                      :
+     ;                                      :
+    (                                       ;
+     `-.                           *      ,'
+       ;                         Dunes   :
+     .'                             .-._,'
+   .'                               `.
+_.'   o                           .__;
+`._ Canyons         o            ;
+   `.             Forêt          :    
+     `.               ,..__,---._;    
+       `-.__         :                
+            `.--.____;              
+                                      
+
+Voulez vous voir la carte ?     
+
+
+
+
+
+Voulez vous voir votre progression ?
+▯▯▯▯▯▯▯▯▯▯ 0%
+▮▮▯▯▯▯▯▯▯▯ 20%
+▮▮▮▮▯▯▯▯▯▯ 40%
+▮▮▮▮▮▮▯▯▯▯ 60%
+▮▮▮▮▮▮▮▮▯▯ 80%
+▮▮▮▮▮▮▮▮▮▮ 100%

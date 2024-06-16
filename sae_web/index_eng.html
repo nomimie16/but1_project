@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style_littotour.css" />
+    <title>Littotour</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div>
+            <div class="langues"><a href="index_eng.html" target="_blank">
+                    <img class="anglais" src="img/anglais.png"></a> <br />
+                <a href="index.html"><img class="france" src="img/france.png"></a>
+            </div>
+        </div>
+        <p class="titre_header_responsive"></p>
+    </header>
+
+    <nav>
+        <div class="centre">
+            <ul>
+                <li><a class="lien_nav" href="index_eng.html">Home</a></li>
+                <li><a class="lien_nav" href="enfants_eng.html">Kids</a></li>
+                <li><a href="index_eng.html"><img src="img/logo.svg" /></li></a>
+                <li><a class="lien_nav" href="ados_eng.html">Teens</a></li>
+                <li><a class="lien_nav" href="famille_eng.html">Family</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="menu">
+        <!-- Utilisation d'une checkbox -->
+        <input type="checkbox" id="hamburger">
+        <!-- Label de la checkbox -->
+        <label id="hamburger-logo" for="hamburger">☰</label>
+        <!-- Le reste du menu -->
+        <nav>
+            <a href="index_eng.html">Home</a>
+            <a href="enfants_eng.html">Kids</a>
+            <a href="ados_eng.html">Teens</a>
+            <a href="famille_eng.html">Family</a>
+        </nav>
+
+    </div>
+
+    <div class="logo_res">
+        <img src="img/logo.svg" />
+    </div>
+
+    <br>
+    <br>
+
+    <p class="titre_ban_responsive">LITTO'TOUR</p>
+
+    <article>
+        <div class="banniere">
+            <div class="banniere_2">
+                <p class="titre_ban">LITTO'TOUR</p>
+                <p class="slogan">For family adventures on the Côte d’Opale</p>
+                <br>
+                <a href="famille_eng.html"><button class="CTA_accueil">Come have fun with your family !
+                    </button></a>
+            </div>
+        </div>
+
+
+
+        <!-------CAROUSEL-------->
+        <div class="carousel_glob">
+            <div class="carousel">
+                <div class="images">
+                    <input type="radio" name="boutons" id="bouton1">
+                    <input type="radio" name="boutons" id="bouton2">
+                    <input type="radio" name="boutons" id="bouton3">
+                    <input type="radio" name="boutons" id="bouton4">
+
+                    <div class="image first">
+                        <img src="img/1.jpg" alt="">
+                    </div>
+
+                    <div class="image">
+                        <img src="img/2.jpg" alt="">
+                    </div>
+
+                    <div class="image">
+                        <img src="img/3.jpg" alt="">
+                    </div>
+
+                    <div class="image">
+                        <img src="img/4.jpg" alt="">
+                    </div>
+
+                </div>
+
+                <div class="defil">
+                    <label for="bouton1" class="bout"></label>
+                    <label for="bouton2" class="bout"></label>
+                    <label for="bouton3" class="bout"></label>
+                    <label for="bouton4" class="bout"></label>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="def_cote_opale"> <!-- bloc comprenant titre, texte et image de la cote d'opales-->
+
+            <div class="texte_opale">
+                <h1>The Côte d’Opale </h1>
+                <p>The Côte d’Opale, located from Berck to the Belgian border, is the family destination par excellence.
+                    This place is full of outdoor and indoor activities.
+                    This place is full of outdoor activities and indoor activities.
+                    You can see beautiful landscapes and learn all about the local history and culture. Everyone can
+                    find their way around, whether young or old.
+                    <br>
+                    Its beaches are ideal for family games, swimming and picnics in the sun.
+                    Many hiking trails are located on the Côte d’Opale, allowing you to discover the most beautiful
+                    landscapes of the site. Many indoor activities are also present for the happiness of the whole
+                    family !
+                </p>
+            </div>
+
+            <img class="carte" src="img/carte_litto.jpg" alt="Carte du Littoral" />
+
+        </div>
+
+
+
+        <table class="tableau_accueil">
+
+            <caption class="titre_tableau">
+                <h1>What will you find here ?</h1>
+            </caption> <!--titre du tableau-->
+
+            <thead>
+                <tr>
+                    <th class="enfant">KIDS</th>
+                    <th class="ado">TEENS</th>
+                    <th class="famille">FAMILY</th>
+                </tr>
+            </thead>
+
+            <tr>
+                <td>In this category you will find activities for children both outdoors and indoors. The little ones
+                    are sure to have fun !</td>
+                <td>This category offers outdoor and indoor activities for teenagers, moments of entertainment
+                    guaranteed !</td>
+                <td>For young and old, the whole family is sure to have a good time together thanks to the activities we
+                    offer !</td>
+            </tr>
+
+        </table>
+
+
+        <div class="contact_accueil">
+            <p class="titre_contact_accueil">Contact</p>
+            <p class="text_contact_accueil">A question about one of the activities, on the Côte d'Opale or others ? <br>
+                Email us at littotour@cotedopale.com</p>
+        </div>
+    </article>
+
+    <footer>
+        <a class="mentions_legales" href="mentions_legales_eng.html">Legal notice</a>
+
+    </footer>
+</body>
+
+</html>

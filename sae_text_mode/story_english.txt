@@ -1,0 +1,638 @@
+
+
+
+Once upon a time there was a group of students at a university. One evening the group discovered an abandoned video game, found in a box in the basement. They then decided to play it. But when they started, the group was sucked into the game.
+RULES/RULES:
+- each player/character has 3 lives
+- make the wrong choice and you will perish
+- every bad decision causes you to lose a life
+- make the right choice and get an easier challenge
+- Successfully complete the simple challenge and leave with 1 more life and 25 points
+- Successfully complete the complicated challenge and leave with 1 more life and 50 points
+- A failed/unfinished challenge causes you nothing
+
+To complete the game and escape you must have 100 points in order to buy the jewel that will allow you to shout the name of junglophia
+
+ 
+
+CHARACTER CHOICE
+
+What is your name in the game?
+
+You will enter the world of Junglophia
+Adventurer beware, only start playing if you intend to finish.
+Before you start playing you must choose an avatar. Do you want to be the explorer(1), the professor(2) or the warrior(3)?
+Chapter 1
+JUNGLE
+On your arrival you land in a hostile place in the middle of the jungle.
+You hear a strange noise behind the foliage. Suddenly a rhino comes out of nowhere and runs after you.
+You must lose it to try to survive .Hide(1) or run(2) to try to escape?
+
+Explorer :
+
+(1)
+Your explorer soul tells you to slip behind a rock while waiting for the rhino to leave but it spots you and devours you -1 life
+
+(2)
+Your physical strength allowed you to run fast and far enough to no longer be chased
+
+Teacher :
+(1)
+You choose to take refuge in a cave where the animal cannot get there. It resigns itself and leaves.
+
+(2)
+Unfortunately you are not physically capable of running at full speed and you trip on a rock in the middle of running. The animal makes short work of you -1 life
+
+
+Warrior:
+
+(1)
+You don't know where to go and decide to hide in some foliage not far away but a rat was also hiding there and the noise attracted the rhino in your direction. It devours you - 1life
+
+(2)
+Thanks to your expertise in martial arts you manage to climb along a wall and you reach the top of a mountain which allows you to escape from it
+
+
+
+
+
+After this unexpected encounter, you and your group of adventurers have just met to continue your journey, always in search of the famous jewels which will allow you to escape from this curse which has sucked you into this game. By continuing your journey in the heart From the jungle you see distinct paths which seem to lead in opposite directions.
+
+The first path was narrow and wound through the trees. Mysterious fruits sparkled between the leaves, beckoning travelers to venture further.
+However, the dense vegetation hid elusive creatures.
+
+On the other side, the second path stretched wider, exposing travelers to the golden glow of the sun. However, intriguing nighttime noises echoed through the flora.
+
+You and the adventurers notice that unexpected trials await you in the shadows.
+
+Which path do you want to take?
+choice 1 :
+choice 2 :
+
+Challenge :
+Easy
+
+You choose the first path.To earn 1 life and 25 points, solve this enigma:
+✿ + ✿ + ✿ = 30
+☆ + ☆ + ✿ = 40
+☉ + ☾ + ☾ = 24
+☉ + ☉ * ☉ = 20
+☾ + ☆ * ☉ = ??
+What is the last line?
+
+Congratulations ! You find the solution, you gain 1 life and 25 points.
+Too bad this is not the right solution, you win nothing
+
+
+
+choice 2:
+
+
+
+Difficult :
+You have chosen the second path.To hope to gain 50 points and a life solve this enigma:
+David is 10 years old, his little brother Franck is half his age. When David is 10 times older, how old will Frank be?
+
+Solution: 95 years
+
+Congratulations ! You find the solution, you gain 1 life and 50 points.
+Too bad this is not the right solution, you win nothing
+
+
+
+
+
+Chapter 2
+MOUNTAIN
+
+After traversing the depths of the jungle, you and your group of adventurers must face a whole new challenge: the towering mountains. Where the jungle was a verdant maze, the mountains present a vertical and unpredictable challenge.
+At the top of the mountain, you discover a perilous passage. The crossing to continue your path is extremely dangerous. Before you, two options present themselves:
+The Suspension Bridge: A wooden bridge connects two distant ridges. It looks fragile, but it provides a direct shortcut to the final destination. However, it is notoriously unstable, and there are rumors regarding the creatures that inhabit the abyss below.
+The Tunnel of Eternal Shadows: A dark tunnel, carved from the solid rock of the mountain, descends into the darkness. Although it is safer from a weather point of view, legends say that it houses the corpses of those who failed to escape.
+Head towards the Bridge (1) or towards the Tunnel (2)?
+
+Explorer :
+
+(1)
+As an explorer you feel obliged to head towards the suspension bridge. You walk confidently towards the shortcut and take the group with you. When you reach the halfway point the bridge breaks while dropping all your friends but thanks to your strength you manage to hang on to the boards, still connected to the edges of the mountain and you manage to stay alive.
+
+(2)
+The tunnel seems safer to you and you decide to venture there with your team in the hope of finding a safe passage and an exit. However, once inside a noise rings out and BOOM a landslide occurs .You and your friends find yourself separated from each other, locked in this cave. No matter how hard you look, there is no way out and you don't know how to find a solution. You lose a life. -1life
+
+Teacher :
+
+(1)
+You have chosen to head towards the suspension bridge. According to you and your knowledge, the wood is strong enough to support the weight of two people at a time.
+You therefore decide to ask each member of the group to take their turn and thanks to this you manage to take the shortcut.
+
+
+(2)
+The tunnel seems safer to you and you decide to venture there with your team in the hope of finding a safe passage and an exit. However, once inside a noise rings out and BOOM a landslide occurs. you and your friends you find yourself separated from each other, locked in this cave. No matter how hard you look, there is no way out and you don't know how to find a solution. You lose a life.-1 life
+
+
+Warrior:
+
+(1)
+You feel obliged to head towards the suspension bridge. You walk confidently towards the shortcut and take the group with you. When you reach the halfway point the bridge breaks, dropping all your friends -1 life
+
+(2)
+Your instinct tells you to head in the direction of the tunnel. You lead the group inside and lead the way. A noise seems to come from the back of the cave and you seem to recognize it, it's the same noise as the landslides you experienced while in the army. In a fit of panic you warn your friends to run as quickly as possible. Your intuitive reaction allowed you to escape the cave in one piece.
+
+
+Difficulty choice 2:
+After passing this shortcut, you come across an enigmatic refuge: this mysterious refuge seems abandoned. You can choose to rest there, but something seems wrong. You must decide whether you trust the shelter or whether you continue your journey despite fatigue. Rest there (1) or continue your journey (2)?
+
+(1)
+You decide to explore the mysterious refuge to spend the night there. At first glance, everything seems normal, but during the night you are awakened by strange noises. While exploring the refuge, you discover a secret room
+In the hidden room, your party finds an old book, the Book of the Ancients, which contains ancient knowledge about the secrets of JUNGLOPHIA. Thanks to it, you learn more about how the game works and its mechanics.
+
+
+(2)
+You and your group of adventurers, wary of the idea of ​​resting in an unknown place, decide to continue your quest without stopping at the refuge.
+During your nighttime ascent, you meet a mysterious guide. He offers his help to cross a particularly dangerous section of the mountains, claiming to know the secret passages and safer paths. You must choose to trust this unknown guide or continue on your own.
+Continue alone (1) or Trust (2)?
+
+
+Challenge :
+You have chosen the second path.To hope to gain 50 points and a life solve this enigma:
+A -> !
+B -> @
+C -> #
+D -> $
+E -> %
+F -> ^
+G -> &
+H -> *
+I -> (
+J -> )
+K -> _
+L -> -
+M -> +
+N -> ;
+O ->:
+P -> '
+Q -> "
+R -> ,
+S -> .
+T -> <
+U -> >
+V -> /
+W -> ?
+X -> `
+Y -> {
+Z -> }
+Coded message : <*%  .:-><(:;  (.   (;   ^,:;<  :^   {:>  
+Can you find the hidden message?
+
+
+Solution: “The solution is in front of you”
+The answer was, "The solution is in front of you." Just replace the symbols with their corresponding letters.
+Difficult choice 1:
+You have chosen the second path.To hope to gain 25 points and a life solve this enigma:
+I'm caught without being caught,
+I travel but have no legs.
+I cry without having eyes.
+Wherever I go, darkness follows.
+What am I ?
+
+Solution: echo
+Chapter 3
+The Dunes of Infinity
+As you emerge from the majestic mountains, another ordeal stretches before you: the relentless desert, where endless dunes whisper tales of buried mysteries. Your quest continues across an ocean of golden sand, where every step is a dance with illusion and survival.
+The Dunes of Infinity stretch as far as the eye can see, forming an endless desert of golden sand.
+At the heart of the Dunes of Infinity lies an ancient city buried beneath the sand. Legends speak of a treasure buried in the ruins. You must go there to find the jewel that will allow you to free yourself from the curse of Junglophia.
+Once you reach the city you see a merchant who could provide information on the location of the chest containing the precious jewel. Do you want to approach this merchant? (o) or (n)
+
+(o)
+You decide to go see him to hope to have information on the jewel. By talking with him he informs you that it is possible that he has things to reveal about the location of the chest but he insists he won't give them away unless you pass a test.
+
+bonus riddle:
+
+
+
+
+(n)
+You decide not to approach the passerby, even if this would have allowed you to have information about the jewel.
+
+
+
+Action 3:
+
+As you progress through the fiery sand, the group is suddenly caught in a violent sandstorm which forces you to take refuge under a cave for protection. Once inside you discover a mysterious door which seems abandoned. You and the group open this door and discover a room leading to another door. However, to access the latter you must solve a puzzle. There is an inscription saying that one is done with numbers while the other leads to the reflection.What riddle do you want to solve? (1 or 2)
+
+
+Difficulty choice 3:
+
+Path 1:
+
+Challenge :
+easy:
+You have chosen the first enigma. To gain 1 life and 25 points, solve this enigma:
+1 | 2 | 3 neither number is correct
+4 | 5 | 6 correct number and in the right place
+6 | 1 | 2 1 correct number, but not in the right place
+5 | 4 | 7 1 correct digit, but not in the right place
+8 | 4 | 9 1 correct digit, but not in the right place
+? | ? | ? What is the correct code?
+
+solution: 8 7 6
+
+
+difficult (2)
+
+You have chosen the second enigma. To gain 1 life and 50 points, solve this enigma:
+The more guards I have, the less guarded I am.
+The fewer guards I have, the more I am guarded.
+Who am I ?
+
+solution: the secret
+
+This door led to an exit which allowed you to save time during your journey. At the exit you come across a child who cries for help, upon seeing you, the child approaches you and explains to you that the end is near and you must choose which direction you want to go. He insists that you follow a lost path which seems to lead towards a dark forest but he also gives you the choice to continue towards a path heading towards large canyons which reflect the light and which appear quite narrow.
+Do you want to head to the Dark Forest (1) or the Winding Canyons (2)?
+
+
+
+
+FOREST
+
+You venture into the mysterious Silent Forest, where strange phenomena obscure the light of day.
+Meeting the Hunters:
+However, before you have the chance to step further into the forest, a whistling arrow slices through the air, narrowly missing hitting you.
+Suddenly skilled and silent hunters reveal themselves, emerging from the shadows of the forest. Their leader, an individual with a cold look, declares their intention to kill you if you do not give them information on the location of the jewel which allows you to escape from Junglophia. You are then presented with 2 choices:
+(1) Discreet Flight: this option allows you to bypass the hunters and continue your quest without altercation, but it requires a silent and careful retreat, because these poachers are extremely skilled.
+(2) Negotiation: you could propose a hunter market, exchanging information or resources in exchange for your security. This option could avoid open conflict.
+What do you want to do ? Flee(1) or Negotiate(2)
+
+You make the first decision.
+You disappear into the shadows of the forest, leaving the hunters confused and frustrated. The adventurers continue their quest with the relic, but leave behind a latent tension with the hunters.
+
+You choose the second decision.
+You decide to make a Diplomatic agreement. However, the group of hunters does not seem to be of the same opinion as you. The hunters do not want to hear anything and then start running after you. You do not have time to lose them and you get killed by an arrow right in the heart. -1 life
+
+
+
+
+After your tense encounter with these poachers, you continue your quest through the dense forest. However, their path is blocked by a strange portal hidden in the heart of a clearing lit by the glow of the moon. To pass the portal and hope to win enough to buy the jewel you must solve this riddle:
+
+
+Find the missing number and victory is yours:
+
+42 | 44 | 38
+__________
+
+23 | 55 | 28
+__________
+
+37 | ?? | 39
+
+What is the missing number?
+
+Solution: 22
+This is how it should be done:
+(Column 1 – Column 3) x 11 = Column 2
+Line 1
+42 – 38 = 4 x 11 = 44
+Line 2
+28 – 23 = 5 x 11 = 55
+Line 3
+39 – 37 = 2 x 11 = 22
+
+
+
+
+victory = yes
+Congratulations, you have found the solution to this riddle! You gain 1 life and 50 points
+
+victory = no
+Too bad you don't have the right solution you lose 25 points
+
+
+
+CANYON
+
+Beyond the desert expanses, you now plunge into the canyons, where every rock face sparkles with ethereal crystals. The canyons reveal a sparkling spectacle, but also hide luminous mysteries that defy comprehension.
+As you delve deeper into the mystical mist of the Canyons, you come face to face with venomous snakes with glistening scales. These creatures, hidden in the thick veil of darkness, prove to be formidable.
+The venom from their bites is imbued with ancient magic, a magic that denies reality itself. To avoid being poisoned you can choose to bypass the path by jumping from one bank of the canyons to the other or else try to defend yourself using a crystal that is buried in the canyon rock.
+Defend yourself(1) or jump out of the canyon(2)?
+
+
+(1)
+You choose to defend yourself. You look around you and see a crystal buried in the rock. With the help of your friends you manage to extract it and you use it to dazzle the venomous snakes thanks to the light enclosed by the walls of the canyon. This distraction allows you to pass between the creatures and lets your journey continue unharmed.
+
+
+(2)
+You decide to take another path to avoid attracting the poisonous snakes in your direction, however the creatures surround you and you have no choice but to jump from one end to the other. The distance is so big but it is your last chance to survive their bites. With a determined step you take the plunge but you were right the distance did not allow you to reach the other side so easily and you sink at the sight of the canyon heights.You lose a life -1life
+
+
+After facing these fearsome creatures you reach an area where a strange mist rises from the depths of the canyon. You must choose:
+Cross the Mist (1): You can choose to venture into the mist, despite its mysterious appearance. This decision could carry unknown risks.
+Bypass the Mist (2): You and the adventurers can choose to bypass the foggy area, opting for a safer but potentially longer path.
+
+
+?? + ?? = 8
+ +   +
+?? - ?? = 6
+ =    =
+ 13   8
+
+3.5 + 4.5 = 8
+  +    +
+9.5 - 3.5 = 6
+ =     =
+13     8
+
+
+
+
+After having had this last ordeal a mysterious door opens through the rock of the walls of the mysterious gorges. You go to it and inside you wait for a man who seems to have waited for your arrival.You go to see him and he tells you that he is in possession of the jewel.You do not return it held the famous stone that you seek to obtain since your arrival.
+But to get such a reward the merchant asks for a certain amount of money; he confides in you saying, “For some gold the victory is yours but if you do not have enough coins I can do nothing for you”.
+You need :
+When you take out your purse, you count your coins.
+
+You have : 
+
+WOW! You have enough coins and can take possession of this gem! 
+
+Damn! You do not have enough coins and therefore can not take possession of this jewel! Use it for good use and be worthy of it
+
+
+
+END
+If jewels purchased:
+
+After overcoming a series of dangerous trials in the magical game world of Junglophia, you finally manage to reach the heart of the jungle and solve the mystery that has been holding you back.
+Your group discovers that you must return the magical gemstone to the center of the game board to end the game and close the portal between the real world and Junglophia.
+
+If jewels not purchased:
+
+After overcoming a series of dangerous trials in the magical game world of Junglophia you failed to overcome the curse by passing a certain number of trials and you were unable to purchase the magical gemstone to complete the part and close the portal between the real world and Junglophia.
+You and the adventurers are doomed to stay stuck in the game FOREVER…..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             _                       _                _      _        
+            (_) _   _  _ __    __ _ | |  ___   _ __  | |__  (_)  __ _ 
+            | || | | || '_ \  / _` || | / _ \ | '_ \ | '_ \ | | / _` |
+            | || |_| || | | || (_| || || (_) || |_) || | | || || (_| |
+           _/ | \__,_||_| |_| \__, ||_| \___/ | .__/ |_| |_||_| \__,_|
+          |__/                |___/           |_|                     
+
+
+
+
+You choose the explorer
+You choose the professor
+You choose the warrior
+
+Invalid choice, you must choose one of the choices
+
+
+
+
+
+
+
+                                   /\
+                              /\  //\\
+                       /\    //\\///\\\        /\
+                      //\\  ///\////\\\\  /\  //\\
+         /\          /  ^ \/^ ^/^  ^  ^ \/^ \/  ^ \
+        / ^\    /\  / ^   /  ^/ ^ ^ ^   ^\ ^/  ^^  \
+       /^   \  / ^\/ ^ ^   ^ / ^  ^    ^  \/ ^   ^  \       *
+      /  ^ ^ \/^  ^\ ^ ^ ^   ^  ^   ^   ____  ^   ^  \     /|\
+     / ^ ^  ^ \ ^  _\___________________|  |_____^ ^  \   /||o\
+    / ^^  ^ ^ ^\  /______________________________\ ^ ^ \ /|o|||\
+   /  ^  ^^ ^ ^  /________________________________\  ^  /|||||o|\
+  /^ ^  ^ ^^  ^    ||___|___||||||||||||___|__|||      /||o||||||\       |
+ / ^   ^   ^    ^  ||___|___||||||||||||___|__|||          | |           |
+/ ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo  |
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .    _    +     .  ______   .          .
+ (      /|\      .    |      \      .   +
+     . |||||     _    | |   | | ||         .
+.      |||||    | |  _| | | | |_||    .
+   /\  ||||| .  | | |   | |      |       .
+__||||_|||||____| |_|_____________\__________
+. |||| |||||  /\   _____      _____  .   .
+  |||| ||||| ||||   .   .  .         ________
+ . \|`-'|||| ||||    __________       .    .
+    \__ |||| ||||      .          .     .
+ __    ||||`-'|||  .       .    __________
+.    . |||| ___/  ___________             .
+   . _ ||||| . _               .   _________
+_   ___|||||__  _ \\--//    .          _
+     _ `---'    .)=\oo|=(.   _   .   .    .
+_  ^      .  -    . \.|
+
+
+
+
+
+
+
+
+               ,@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@/ /@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%\ ` /%&'    |.|        \ '|8'
+       |o|        | |         | |
+       |.|        | |         | |
+    \\/ ._\//_/__/  ,\_//__\\/.  \_//__/_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       ,-.^._                 _
+                     .'      `-.            ,' ;
+          /`-.  ,----'         `-.   _  ,-.,'  `
+       _.'   `--'                 `-' '-'      ;
+      :                         o             ;    __,-.
+      ,'    o                 Mountains       ;_,-',.__'--.
+     :    Jungle                             ,--```    `--'
+     :                                      ;
+     :                                      :
+     ;                                      :
+    (                                       ;
+     `-.                           *      ,'
+       ;                         Dunes   :
+     .'                             .-._,'
+   .'                               `.
+_.'   o                           .__;
+`._ Canyons         o             ;
+   `.             Forest         :    
+     `.               ,..__,---._;    
+       `-.__         :                
+            `.--.____;              
+                                      
+
+Would you like to see the map ?      
+
+
+
+
+
+Would you like to see the progress ?
+▯▯▯▯▯▯▯▯▯▯ 0%
+▮▮▯▯▯▯▯▯▯▯ 20%
+▮▮▮▮▯▯▯▯▯▯ 40%
+▮▮▮▮▮▮▯▯▯▯ 60%
+▮▮▮▮▮▮▮▮▯▯ 80%
+▮▮▮▮▮▮▮▮▮▮ 100%
